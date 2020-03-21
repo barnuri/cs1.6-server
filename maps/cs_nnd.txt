@@ -1,0 +1,13 @@
+-= M A D E   I N   R U S S I A =-
+
+ CS_NND - hostage rescue
+ Map by PYaEe (spacea@net5.ru)
+ http://cstrike.wallst.ru	
+
+ Background:     Terrorists have captured
+ four hostages in the big beautiful house
+ somewhere in the mountains of Caucasus.
+ Russian militia will attempt to storm 
+ the house to rescue those damned hostages.
+ 
+ Press FIRE to continue.

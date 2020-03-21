@@ -1,0 +1,43 @@
+CS_DUKE2K - Hostage/Rescue
+by m8nkey
+m8nkey@hotmail.com
+
+Custom Textures:
+m8nkey
+
+Duke Nukem 3d textures sampled/modified by m8nkey
+Duke Nukem 3d ©1996. 3dRealms
+
+Fire animation taken from Quake III Arena
+Quake III Arena ©1999-2000. ID Software
+
+Couch texture by Jens-Christian Huus
+http://vibrants.dk/jchq/news.htm
+
+Movie screen sampled from "Enter The Dragon" DVD
+"Enter the Dragon" ©1973 Warner Bros.
+
+Van texture by 3d Mike
+
+Custom Sounds:
+Fire sound effect by Dr.DK
+www.drdk.cscentral.com
+http://come.to/drdk
+
+"Enter the Dragon" theme song sampled by m8nkey
+"Enter the Dragon" ©1973 Warner Bros.
+
+Arcade sounds from DE_Deadlock
+
+Background:
+This map is in homage to Duke Nukem 3d. It is a
+remake of the first level "Hollywood Holocaust"
+modified to suit CS. 
+
+Tips:
+-wherever there is a crack in a wall the wall can 
+be broken by shooting it
+
+-drain pipes can be used for climbing
+
+(Press FIRE to continue)

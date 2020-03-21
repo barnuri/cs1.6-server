@@ -1,0 +1,23 @@
+-kM--|=> Knifey Magician Maps!
+
+aim_km-spam
+by lochiebrad@hotmail.com
+
+-|=>
+
+Changes:
+
+-All players start with Colt, Aug, Machine Gun, TMP and a HE grenade
+
+-|=>
+
+Terrorists: Eliminate all CTs.
+
+CTs: Eliminate all Terrorists.
+
+Hints: The wall in the middle is actually destructable if you have enough patience...
+
+-|=>
+
+.wads used:
+cstrike.wad

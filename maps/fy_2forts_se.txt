@@ -1,0 +1,30 @@
+
+===============================
+7.12.2005
+
+Fixes:
+------
+
+Map is symmetrical.
+
+Fixed ladder brushes.
+
+Sky top is raised higher.
+
+CTs start facing the fort, not the back wall.
+
+Player spawns closer in, away from the sides, to prevent spawn killings.
+
+Added more weapons on the ground. 
+
+Textures are aligned.
+
+Buyzone is in the cage in the middle of the map 
+to eliminate grenade spamming, and makes it harder
+to buy AWP.
+
+Players are equiped with armor and helmet and a p228 pistol
+at the start of each round.
+
+
+===============================

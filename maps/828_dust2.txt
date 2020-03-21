@@ -1,0 +1,43 @@
+Dust - Bomb/Defuse
+mapping by 828
+textures by Macman 
+story by Dream
+
+Counter-Terrorists: Prevent Terrorists
+from bombing chemical weapon crates.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the chemical 
+weapon stashes. 
+
+Other Notes: There are 2 chemical 
+weapon stashes in the mission. 
+
+Story:
+A year ago, the battle in 828_dust.
+Counter-Terrorists defeated 828Kill-U
+Organization and stopped them from 
+bombing a main road in town.
+
+But while they were defusing the bomb.
+Leader of the group 828-Killer escaped 
+successfully.
+
+He left a spray on words with message:
+"Even i fail this time, but no one
+lose forever.I will be back, then..."
+with a blood handprint under the spray.
+
+A year passed. CTs again got info about
+the 828Kill-U. They are striking back, 
+and the place to be is 828_dust2 4 KM away.
+They are planning to blow the water supply
+and spread virus.
+
+Once the virus is spread. All place near
+river will be infected. At this time, the
+blood handprint and the spray came into CT's Mind again.
+
+(Press FIRE to continue)

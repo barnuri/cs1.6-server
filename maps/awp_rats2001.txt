@@ -1,0 +1,17 @@
+Rats_2001 - Bomb/Defuse
+by Chris Spain (chris@cyber-rat.com)
+Playtesting by [SKR8]Gunslinger
+ 
+*********MODIFIED BY THE AMUNE(+)SNPR********* 
+
+Counter-Terrorists:--->SPWAN WITH AWP
+Prevent the terrorists from blowing-
+up the toaster. Team members must
+defuse any bombs that threaten the
+target area.
+
+Terrorists:--->SPAWN WITH AWP
+The terrorist carrying the bomb must
+plant it on or around the toaster.
+
+(Press FIRE to continue)

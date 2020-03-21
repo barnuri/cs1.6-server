@@ -1,0 +1,21 @@
+Garrison - Hostage Rescue
+By -sadist- (cs_sadist@yahoo.co.uk)
+Textures by -sadist-, also thanks to joesmoe + stratesiz
+
+Background: Terrorists have taken siege a large 2 story hotel 
+and hold 4 innocent guests in captivity.
+
+Terrorists: Secure all entrances into the building
+and guard the hostages.
+
+Counters: Rescue the hostages from the terrorists
+and return them to the rescue point.
+  
+Other Notes: There are 4 hostages and 2 rescue points in the map.
+
+Thanks to:
+
+Jedicow5 for toilets and toilet stall.
+Der Kommissar @ Crinity for the skybox.
+             
+(Press FIRE to continue)

@@ -1,0 +1,15 @@
+Castlevania - Hostage Rescue
+Mapa por Tio Fonfa (ICQ:32686342)
+Leia cs_castlevania_readme.txt para
+mais detalhes sobre o mapa e os autores.
+
+Counter-Terrorists: Resgatem os refens a
+qualquer custo. Levem os refens a qualquer
+um dos portoes.
+
+Terrorists: Elimine os Counter-Terrorists
+antes que resgatem os refens.
+
+Other Notes: Ha cinco refens nessa missao.
+
+(Press FIRE to continue)

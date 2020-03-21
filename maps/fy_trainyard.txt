@@ -1,0 +1,15 @@
+http://csmap.truegaming.net
+Trainyard 1v1 - Defusion
+by Ryan Ross (AntidotE) (n0twanted@hotmail)
+Helped/Ideas from Ricky Brach (Broken)
+Graphics by Steven Krueger (clevich)
+
+Counter-Terrorists: Prevent the trainyard from 
+being destroyed.
+
+Terrorists: Plant the bomb and blow up the
+Trainyard.
+
+Other Notes: boxes explode and the bridge breaks h4x 
+
+(Press FIRE to continue)

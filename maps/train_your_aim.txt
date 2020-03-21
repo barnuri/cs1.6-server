@@ -1,0 +1,5 @@
+This is an aim training map.  There are 4 levels, one with sniper rifles (scout and awp),
+ one with medium range rifles (M4A1 and AK-47), one with close range guns (pump and mp5),
+ and one with just your starting pistols.
+
+Made by Tom

@@ -1,0 +1,56 @@
+Version 1.0 Final
+
+by DedeHai 
+
+Shotgunmap by GothicFire
+(modified by DedeHai)
+
+
+dedehai@freesurf.ch            
+ICQ# 31162912
+
+
+Die Map besteht aus diesen Teilen:
+
+-Version von de_ms by Gothicfire (Shotgun-Only)
+-Handgun-Only map
+-Sniperarena
+-he_tennis Version
+-Knifearena
+-Para-Only-Arena
+
+Anweisungen:
+
+Jede Runde wird eine Tür gewählt (egal vo von den T's
+oder den CT's). Ist eine Tür gewählt geht diese auf und
+alle anderen werden gesperrt.
+Wird die handguns-only Tür gewählt kann nachher noch
+die gewünschte Pistole gewählt werden.
+
+ 
+WARNUNG:
+wer länger als 20 Sekunden an seinem Respawn-Point
+stehen bleibt gilt als AFK und wird von einem 
+Blitz getötet.
+
+
+Anmerkungen vom Autor:
+
+Ursprünglich hatte ich diese map für meinen Clan RSM
+gemacht. Da sich RSM aufgelöst hat habe ich die Map
+überarbeitet und nun eine Version fertig gestellt
+die direkt vom Server gesaugt werden kann, da jetzt 
+keine zusätzlichen Models mehr gebraucht werden und
+auch die neuen Texturen schon im bsp file enthalten 
+sind. Deshalb auch ein neuer name, nicht mehr RSM_TRAINING.
+Das Einzige was jetzt noch an den alten Namen erinnert
+ist die Credits-Textur. Ansonsten ist die map genau
+gleich wie vorhin.
+
+Bekannte Bugs:
+- Knife-Map Player Verteilung stimmt nicht immer
+- Geht eine Runde Weniger lang als 20 sek sterben alle
+- Man bekommt keine Waffe/Türe Geht nicht auf
+
+Wer wissen will wieso sie nicht behoben werden können
+kann mir eine Email schreiben.

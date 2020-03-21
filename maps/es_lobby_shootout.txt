@@ -1,0 +1,15 @@
+ES_LOBBY_SHOOTOUT
+
+Matrix Lobby scene shootout -escape
+by Nelson Cheng  (Berzerker8x)  (berzerker8x@home.com)
+
+Terrorists take on the role of the rebels 
+in attempt to rescue Morpheus.
+
+Level is based purely on the shoot out scene.
+
+Notes: shoot out all the marble panels on walls
+ run up walls and express your skills of defying
+gravity..
+
+(Press fire to continue)

@@ -1,0 +1,77 @@
+Industry West - Hostage Rescue
+
+
+ginsengavenger - all mapping, modeling, 
+                 texturing, and random 
+                 technicalities
+
+[ubehagelig] - creative development,
+               oomphification, and
+               project delays
+
+
+The elaborate attempted assassination of a
+prominent political figure has gone horribly
+awry, leading to a high-speed chase through
+the streets of the City of Industry. The
+Terrorists have fled to a local industrial 
+park and have taken four hostages. Their 
+demands will not be met by authorities.
+
+Counter-Terrorists: Eliminate the Terrorist 
+threat without jeopardizing the hostages. 
+Escort the hostages to safety.
+
+Terrorists: Defend your hostages and 
+withstand the Counter-Terrorist assault.
+
+(Press FIRE to continue)
+
+
+
+· · · · · · · · · · · · · · · · · · · · · · · · ·
+
+Support custom maps! If you like this map, or 
+any other custom maps, tell your friends, tell 
+your clan, tell your favorite servers' admins, 
+tell your Congressman!. Most maps are promoted 
+solely through word of mouth and a few websites. 
+Without you, the player, these maps are worthless!
+
+· · · · · · · · · · · · · · · · · · · · · · · · ·
+
+
+Additional notes:
+
+Final release exclusive to CSCentral Mappack #2.  (thx seb)
+
+PODBot Waypoints courtesy of 2d-chris.
+
+Shouts go out to po for his swattification, and the hill sources,
+  and to Simsalabim for his uncartooning tex skillz
+  and to TON!C for the smokesprite
+  and to 3D_Mike & Mawibse for the alphatest tip
+  and to joe and all his posse, bst playtesters evr.
+  and to Crash0rz, that sexy beast. 
+
+Most custom sounds were gleaned from ljudo.com, and are titled lj_*. Most others are of indeterminate origin; if they're your work or if you know whose they are, please drop me a line.
+
+I give thanks as well for the musical might of Mr. Raymond Scott, and for the pop art machinations of Andy Warhol, may they both rest in peace.
+
+Almost all textures by myself, occasionally frankensteined from Valve textures. One texture adapted from Golgotha public domain textures.
+
+Industry_west.wad is being released for public use. Just be sure to give credit where it's due, eh? The asphalt set, bdog brick base, red van roof, carpet, and sidewalk are based on Valve textures. The 'redwall' set is assisted by Simsalabim. All other work is original. 
+
+All models are made by me, please send me an email if you would like to use them in your own map. Those preceded by iw_* are based in part on Valve work.
+
+    If I missed anyone, send me an email and it'll be fixed. Many apologies. D: 
+
+
+    -gin
+
+
+         ginsengavenger@fastmail.fm
+  http://ginsengavenger.home.attbi.com
+
+  ube may be reached at: ubehagelig@hotmail.com
+

@@ -1,0 +1,32 @@
+Hotel Morningstar - Bomb/Defuse
+This map is dedicated to CSCentral (www.cscentral.com)
+
+Philip Klevestav (Blazeeer@lycos.com)
+Mars Jokela (ginsengavenger@hotmail.com)
+Jonas Wang (ubehagelig@hotmail.com)
+Additional models by Snorkie
+
+Background: A small terrorist organisation has
+planned to destroy hotel Morningstar. The
+terrorist organisation got founded as a reaction
+against the groving giant company which owns 
+the hotel: International Hotel Cooperation
+(IHC) and it's extremly rich directors. Hotel
+Morningstar is IHC's premier hotel and a 
+landmark for the entire cooperation.
+
+Terrorists: Plant a C4 bomb in the large
+entertaining room, or the garage in order
+to colapse the whole hotel.
+
+Counter-terrorists: Stop the terrorists from
+planting the bomb at all costs.
+
+Other notes: There are two bomb targets
+in this map.
+
+- Special thanks to Ubehagelig for his incredible
+ideas and for always keeping me from getting tired
+of mapping on this project.
+
+- Additional thanks to Sebastian at CSCentral.

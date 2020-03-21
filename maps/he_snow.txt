@@ -1,0 +1,11 @@
+HE_SNOW
+Map by Punkki (hausser@luukku.com)
+
+Terrorists: Kill CT's
+
+Counter-Terrorists: Kill T's
+
+Other Notes: Round does not end
+until one team has been eliminated!
+
+(Press FIRE to continue)

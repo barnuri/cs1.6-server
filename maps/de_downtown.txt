@@ -1,0 +1,55 @@
+DE_DOWNTOWN
+By Dr.DK (AKA Martijn Schrijver) [De_Stonepit, De_Battle_isle(2)] www.drdk.cscentral.com
+And Backslider (AKA Ed Charbeneau) [De_Deadlock, CS_Boxoffice2k] www.backslider.gamedesign.web1000.com
+
+A picturesque Dutch town has become the focus of a five-year money laundering 
+and tax evasion investigation linked to a series of murders, drug trafficking, 
+p0rn0graphy, and millions of Euros in allegedly dirty cash.
+
+Sources say that the Terrorist group Al-Geyduh is using the money to wire large
+“loans” through a Holland bank account. 
+The Dutch government assigned a group of undercover agency to infiltrate the terrorist 
+organization in order setup an ambush and to retrieve the loot in the train-units. 
+Unfortunately, Al-Geyduh has learned of the Counter-Terrorism operations 
+and surprised the Counter-Terrorism movement with heavy resistance. 
+
+TERRORIST: Your mission is to infiltrate the Dutch town. 
+Locate the railway, and retrieve the smuggled money and loot. 
+Use all means necessary to recover the goods. 
+Beware, the town has been under close watch by Counter-Terrorism forces, 
+creating a diversion maybe necessary to recover the cash. 
+Plan B would involve bombing a nearby café, distracting the opposition and their resources.
+
+COUNTER-TERRORIST: Your mission, protect the town from Al-Geyduh. 
+Beware, they are desperate and may try anything. You are equipped to fight them, 
+so shoot to kill, and ask questions later. 
+
+Mapping brush work by:
+Dr.DK 
+
+Textures by:
+Dr.DK & Backslider
+Other’s include (3D_Mike, Payne)
+
+Models by:
+Backslider
+Others by (Antipop, The Doenerking, Spastic child)
+
+Sounds by:
+Dr.DK
+Others by (3D_Mike)
+
+Skybox by:
+Backslider & Dr.DK (based on N0TH1NG's)
+
+Story by:
+Dr.DK & Backslider
+
+Waypoints by:
+[iMPC]Fast
+
+Special thanks to: 
+aKra, [iMPC]Fast, GoT, Sebastian
+
+DE_DOWNTOWN FINAL
+12/23/02

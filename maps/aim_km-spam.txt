@@ -1,0 +1,17 @@
+-kM--|=> Knifey Magician Maps!
+
+aim_km-spam
+by lochiebrad@hotmail.com
+
+-|=>
+
+Terrorists: Eliminate all CTs.
+
+CTs: Eliminate all Terrorists.
+
+Hints: The wall in the middle is actually destructable if you have enough patience...
+
+-|=>
+
+.wads used:
+cstrike.wad

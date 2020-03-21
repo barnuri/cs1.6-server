@@ -1,0 +1,14 @@
+2StoryDust - Bomb/Defuse
+by: Fastmover
+Fastmoverr@hotmail.com
+
+Counter-Terrorists: Prevent Terrorists 
+from bombing chemical weapon crates.  
+Team members must defuse any bombs that 
+threaten targeted areas.
+
+Terrorists: The Terrorists carry the C4
+must destroy one of the chemical weapon 
+stashes.
+
+(Press FIRE to continue)

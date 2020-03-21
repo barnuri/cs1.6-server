@@ -1,0 +1,41 @@
+Italian Eve Version 2 - Bomb/Defusion
+by TorQue[MoD] (torque_mod@planethalflife.com)
+
+Textures by Monolith 
+
+Sky by CS team, modified by TorQue[MoD]
+
+
+Background:
+A Terrorist organization from around the globe has 
+discovered the location of an ancient map rumored 
+to lead the way to the Holy Grail. 
+The map resides in a small Antique shop in Parma, 
+Italy and is the Terrorist faction's next target.   
+
+Terrorists:
+Make your way to the Antique Shop in the lower end 
+of Town, to steal the map and destroy the building.
+
+Counter-Terrorists: 
+The Terrorists are heading towards an Antique shop 
+found in the lower end of town. You must stop the 
+Terrorists from planting their bomb at all costs!   
+
+[Special Thanks]
+
+Monolith for the wicked textures (no, you can't have them)
+Speck
+Fallen Knight
+Freelance
+SharpShooter
+Alcrifice 
+Dedemeist
+Mac10 Brothers
+MORDor
+Red Rat
+Planet Half-Life
+Anyone else I missed.
+
+
+ 

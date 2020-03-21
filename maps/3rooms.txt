@@ -1,0 +1,12 @@
+3rooms - Death Match
+Map by =[FoD|XERXES]= (xmaps@web.de) 
+
+Description:
+Eine Einfache Deathmatch Karte
+(Macht über Spaß)
+
+Counter-Terrorists: Vernichtet die Terroristen.
+
+Terrorists: Vernichtet die Counter-Terroristen.
+
+(Press FIRE to continue)

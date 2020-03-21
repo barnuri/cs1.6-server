@@ -1,0 +1,26 @@
+       
+
+                              ***************************************************
+                              *************** cs_assault3 ************************
+                              **************************************************
+
+
+
+                    Author: ZURAB
+       
+                    Used Editor: WC 3.3 
+
+                    Construction Time: 4 days
+  
+                    WAV Used: Metal Militia, METALLICA - 22KHz MONO
+
+                    Used Textures: cs_assault.wad, halflife.wad, decals.wad
+------------------------------------------------------------------------------------------------------------------------
+                              Counter-Terrorists:  Infiltrate the                                                       
+                   plane and rescue the remaining hostages 
+                   from the Terrorists holding them.  
+
+                   Terrorists: Prevent the Counter- 
+                   Terrorist team from rescuing the 
+                   hostages.  
+------------------------------------------------------------------------------------------------------------------------

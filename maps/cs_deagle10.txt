@@ -1,0 +1,12 @@
+DEAGLE10 - Hostage Rescue
+Map by: Punkki (skorz@luukku.com)
+
+Counter-Terrorists: Rescue the hostages.
+
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages. 
+
+Other Notes: There are 2 hostages in 
+this mission.
+
+(Press FIRE to continue)

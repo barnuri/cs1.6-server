@@ -1,0 +1,14 @@
+fy_osktowers - Deathmatch
+By Andy Webb A.K.A -=O.S.K=-AnDy (spiderwebbage123@hotmail.com)
+Textures By Valve
+
+Counter-Terrorists: Kill the Terrorists.
+
+Terrorists: Kill the Counter-Terrorists.
+
+Credits:
+Creator: Andy Webb
+Texturing: Andy Webb
+Testing: Andy Webb, Ian Foxcroft
+
+(Press FIRE to continue)

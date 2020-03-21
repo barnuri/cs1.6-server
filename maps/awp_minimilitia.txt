@@ -1,0 +1,15 @@
+Awp MINIMILITIA
+
+Awp Version of the popular map cs_mini_militia
+
+############################
+Modified By The Amune(+)Snpr
+############################ 
+
+Counter-Terrorists Sniper Unit:
+Assault the building
+
+Terrorists Sniper Unit:
+Kill all the Counter-Terrorists
+
+Spawn With Deagle-n-Awp

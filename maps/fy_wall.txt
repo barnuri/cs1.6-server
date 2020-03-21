@@ -1,0 +1,8 @@
+fy_wall - Fight to the death
+Terrorists: Kill the Counter-Terrorists
+Counter-Terrorists: Kill the Terrorists
+
+Redone version of fy_optix2
+by Radix E-Mail : biodudec4@yahoo.com
+Aim sn : biodudec4
+Dedicated to Team Optix and its great leader, Othello.

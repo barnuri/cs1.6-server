@@ -1,0 +1,12 @@
+sound/misc/prepare.wav
+sound/misc/headshot.wav
+sound/misc/multikill.wav
+sound/misc/ultrakill.wav
+sound/misc/monsterkill.wav
+sound/misc/killingspree.wav
+sound/misc/godlike.wav
+sound/misc/rampage.wav
+sound/misc/unstoppable.wav
+sound/misc/humiliation.wav
+sound/misc/perfect.wav
+maps/awp_map_fair.res
