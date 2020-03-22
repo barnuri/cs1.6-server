@@ -14,5 +14,4 @@ services:
         environment:
             - ADMIN_STEAM=0:0:22577655
             - SERVER_NAME="The Snakes"
-
-    
+            - MAXPLAYERS=16  
