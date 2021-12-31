@@ -1,0 +1,16 @@
+                      MuseOnline ConFiG
+
+F1 = autobuy
+F2 = rebuy
+F3 = admin_tsay
+F4 = Kick
+F5 = Ban
+F6 = BanIP
+F7 = Pass
+F8 = NoPass
+F9 = Hook ON
+F10 = Hook OFF
+F11 = bullet_damage ON
+F12 = bullet_damage OFF
+/ = Restert
+H = Big Admin Commandmenu

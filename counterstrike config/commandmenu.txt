@@ -1,0 +1,429 @@
+
+
+"1" "Current Game"
+{
+	CUSTOM	"1" "Show Map Briefing"	"!MAPBRIEFING"
+	"2" "Change Team" "chooseteam"
+	"3" "Show Time Left" "timeleft"
+	"4" "Demo"
+	{
+		"1" "Record" "messagemode record"
+		"2" "Stop Recording" "stop"
+		"3" "Play" "messagemode viewdemo"
+	}
+}
+"2" "t_Says "
+{
+
+"1" "sniper=kick" "admin_tsay blue Sniper=Kick/Ban!!"
+"2" "Long Rules" "admin_tsay yellow No sniper, No Rump/A, No rush (Lo laavor hezi)"
+"3" "knife " "admin_tsay blue Knife Knife Knife Don't Shot!!!!"
+"4" "Live" "admin_tsay blue --==Live==-- YaLLa Go Go GO"
+"5" "TK" "admin_tsay Kill Team=Kick/Ban"
+"6" "surf_grren rules" "admin_tsay blue Kill in Neshakim/top/Start = kick/Ban!!"
+"7" "surf_grren rules" "admin_tsay blue Kill in jump/Neshakim/top/Start/mario = kick/Ban!!"
+"8" "we win" "admin_tsay We are on way of winning"
+"9" "Using" "admin_tsay green I aM UsInG MuseOnline CoNFiG, The Best cfg"
+"10" "no cmap" "admin_tsay No Camping !! "
+}
+
+
+"3" "Maps 4 Admin"
+{
+	"1" "Maps"
+{
+	"1" "Fun Maps"
+{
+        "1" "!!~Sex_Movie" "Admin_map !!~sex_movie"
+        "2" "fun_map" "Admin_map fun_map"
+        "3" "Fun_Box" "Admin_map fun_box"
+        "4" "2Roomz" "Admin_map 2roomz"
+        "5" "fy_matrix" "admin_map fy_matrix"
+        "6" "fun_OnlyOneShot" "admin_map fun_OnlyOneShot"
+        "7" "Fun_Allinone" "admin_map fun_allinone"
+        "8" "fun_allonone2" "admin_map fun_allonone2"
+        "9" "1hp" "Admin_map 1hp"
+        "10" "35hp" "Admin_map 35hp"
+        "11" "aim_crazyjump" "Admin_map aim_crazyjump"
+        "12" "35hp_2" "Admin_map 35hp_2"
+        "13" "35hp_4" "Admin_map 35hp_4"
+        "14" "Aim_Sniper_arena_Beta" "Admin_map Aim_Sniper_arena_Beta"
+}
+	"2" "Surf Maps"
+{
+        "1" "Surf_Ski_2" "Admin_map surf_ski_2"
+        "2" "Surf_Ski3_Summer" "Admin_map surf_ski3_summer"
+        "3" "Surf_Ninja" "admin_map surf_ninja"
+        "4" "Surf_Green" "admin_map surf_green"
+        "5" "Surf_Green2" "admin_map surf_green2"
+        "6" "Surf_Green3" "admin_map surf_green3"
+        "7" "Surf_City" "admin_map surf_city"
+        "8" "surf_egypt" "admin_map surf_egypt"
+        "9" "surf_challenge" "Admin_map surf_challenge"
+        "10" "surf_tower_wars" "admin_map surf_tower_wars"
+        "11" "surf_ski_4" "Admin_map surf_ski_4"
+        "12" "Surf_Dust2" "Admin_map surf_dust2"
+        "13" "Surf_Simpsons_Final" "admin_map surf_simpsons_final"
+
+}
+	"3" "De Maps"
+{
+        "1" "De_Dust2" "admin_map de_dust2"
+        "2" "gg_33_mario" "Admin_map gg_33_mario"
+        "3" "De_Dust2_long" "Admin_map de_dust2_long"
+        "4" "gg_33_battle" "Admin_map gg_33_battle"
+        "5" "gg_33_chaos" "Admin_map gg_33_chaos"
+        "6" "De_Dust" "Admin_map de_dust"
+        "7" "De_Nuke" "Admin_map de_nuke"
+        "8" "De_Inferno" "Admin_map de_inferno"
+        "9" "De_Vertigo" "Admin_map de_vertigo"
+        "10" "De_Cpl_Mill" "admin_map de_cpl_mill"
+        "11" "De_Train" "Admin_map de_Train"
+
+}
+	"4" "Ka Maps"
+{
+        "1" "soccerjam" "Admin_map soccerjam"
+        "2" "Ka_Legoland" "Admin_map ka_legoland"
+        "3" "free_temple_night" "admin_map free_temple_night"
+        "4" "bighouse" "Admin_map bighouse"
+        "5" "free_temple_day" "Admin_map free_temple_day"
+        "6" "farmhouse_de" "Admin_map farmhouse_de"
+        "7" "cs_carzzz" "Admin_map cs_carzzz"
+        "8" "Ka_Deagle" "Admin_map ka_deagle"
+        "9" "deagle_shotgun_factory" "Admin_map deagle_shotgun_factory"
+        "10" "He_Glass" "Admin_map he_glass"
+        "11" "ka_roadwars_v2" "Admin_map ka_roadwars_v2"
+}
+	"5" "Kz Maps"
+{
+        "1" "Kz_Adv_Quadrablock" "admin_map kz_adv_quadrablock"
+        "2" "kz_games_b03" "admin_map kz_games_b03"
+        "3" "kz_goldenbean_200401" "admin_map kz_goldenbean_200401"
+        "4" "kz_wsp_marioland" "admin_map kz_wsp_marioland"
+        "5" "100rooms" "admin_map 100rooms"
+        "6" "2pro_awp" "admin_map 2pro_awp"
+        "7" "99hp" "admin_map 99hp"
+        "8" "Kz_Adv_Quadrablock" "admin_map kz_adv_quadrablock"
+        "9" "kr_fortress" "admin_map kr_fortress"
+}
+
+	"6" "Aim Maps"
+{
+        "1" "aim_mp5" "admin_map aim_mp5"
+        "2" "cs_deagle10" "Admin_map cs_deagle10"
+        "3" "aim_dgl" "Admin_map aim_dgl"
+        "4" "Aim_Kr3w_Dgl" "Admin_map aim_kr3w_dgl"
+        "5" "Aim_Map" "Admin_map aim_map"
+        "6" "aim_glocker" "Admin_map aim_glocker"
+        "7" "cs_deagle5" "Admin_map cs_deagle5"
+        "8" "cs_deagle7" "Admin_map cs_deagle7"
+        "9" "cars_n_robots" "Admin_map cars_n_robots"
+
+}
+	"7" "Awp Maps"
+{
+        "1" "Awp_Map" "admin_map awp_map"
+        "2" "Awp_India" "admin_map awp_india"
+        "3" "awpknivez_dsr_v05" "admin_map awpknivez_dsr_v05"
+        "4" "awp_arena" "admin_map awp_arena"
+}
+
+}
+
+
+"4" "Other Maps"
+{
+        "1" "Ak-47_Map" "Admin_map ak-47_map"
+        "4" "aim_patriarch-towers" "Admin_map aim_patriarch-towers"
+        "5" "Fy_Pool_Day" "admin_map fy_pool_day"
+        "6" "aim_zonewar" "Admin_map aim_zonewar"
+        "7" "Battlefield_Rush" "Admin_map battlefield_rush"
+        "8" "Afk_6Killer" "Admin_map afk_6killer"
+        "9" "scoutzknivez_2006" "Admin_map scoutzknivez_2006"
+        "10" "explosion!" "Admin_map explosion!"
+        "11" "fun_jumppark" "fun_jumppark"
+        "12" "dm_funpool" "Admin_map dm_funpool"
+        "13" "As_CrazyTank3" "Admin_map as_crazytank3"
+        "14" "de_dust2_2006" "Admin_map de_dust2_2006"
+        "11" "de_dust2_remake" "Admin_Map de_dust2_remake"
+
+}
+"2" "More Maps"
+{
+        "1" "Aim_Ramp" "Admin_map aim_ramp"
+        "2" "De_Rats" "Admin_map de_rats"
+        "3" "De_Rats3" "Admin_map de_rats3"
+        "4" "gg_33_mario" "Admin_map gg_33_mario"
+        "5" "gg_33_chaos" "Admin_map gg_33_chaos"
+        "6" "gg_33_battle" "Admin_map gg_33_battle"
+        "7" "fy_stoneworld" "Admin_map fy_stoneworld"
+        "8" "fy_snow" "Admin_map fy_snow"
+        "9" "cs_italy" "Admin_map cs_italy"
+        "10" "Fun_Zone" "Admin_map fun_zone"
+
+}
+
+
+}
+
+
+
+"4" "Server Options (Admin_rcon)"
+
+{
+    
+
+	"1" "Change Settings"
+	{
+      "1" "freezetime"
+                {
+     "1" "0" "Admin_rcon mp_freezetime 0"
+     "2" "1" "Admin_rcon mp_freezetime 1"
+     "3" "2" "Admin_rcon mp_freezetime 2"
+     "4" "3" "Admin_rcon mp_freezetime 3"  
+     "5" "4" "Admin_rcon mp_freezetime 4"
+     "6" "5" "Admin_rcon mp_freezetime 5"  
+     "7" "6" "Admin_rcon mp_freezetime 6"  
+     "8" "7" "Admin_rcon mp_freezetime 7"  
+     "9" "8" "Admin_rcon mp_freezetime 8"
+     "10" "9" "Admin_rcon mp_freezetime 9" 		
+
+}
+
+
+		"3" "Auto Team Balance" {
+			"1" "On" "Admin_rcon mp_autoteambalance 1"
+			"2" "Off" "Admin_rcon mp_autoteambalance 0"
+                }
+		"4" "Time Limit"
+		{
+			"1" "Off" "Admin_rcon mp_timelimit 0"
+			"2" "20 minutes" "Admin_rcon mp_timelimit 20"
+			"3" "30 minutes" "Admin_rcon mp_timelimit 30"
+			"4" "40 minutes" "Admin_rcon mp_timelimit 40"
+			"5" "60 minutes" "Admin_rcon mp_timelimit 60"
+			"6" "9999 minutes" "Admin_rcon mp_timelimit 9999"
+			"7" "120 minutes" "Admin_rcon mp_timelimit 120"
+                        "8" "240" "Admin_rcon mp_timelimit 240"
+		}
+		"5" "Limit Teams"
+		{
+			"1" "On" "Admin_rcon sv_limitteams 1"
+			"2" "Off" "Admin_rcon sv_limitteams 0"
+
+		}
+		"6" "Friendly Fire"
+		{
+			"1" "On" "Admin_rcon mp_friendlyfire 1"
+			"2" "Off" "Admin_rcon mp_friendlyfire 0"
+           	}
+	        "7" "All Talk"
+                {
+                        "1" "On" "Admin_rcon sv_alltalk 1"
+                        "2" "Off" "Admin_rcon sv_alltalk 0" 
+                       
+}
+		"8" "Camera"
+		{
+			 "1"  "Off" "admin_rcon mp_forcecamera 2"
+                         "2"  "On" "admin_rcon mp_forcecamera 0"
+     
+                }
+	"9" "Gravity"
+		{
+"1" "100" "Admin_gravity 100"
+"2" "200" "Admin_gravity 200"
+"3" "300" "Admin_gravity 300"    
+"4" "500" "Admin_gravity 500"
+"5" "600" "Admin_gravity 600"
+"6" "700" "Admin_gravity 700" 
+"7" "800" "Admin_gravity 800" 
+   
+                }
+
+
+	     
+               
+        }
+"1" "Restart Round (1 sec)" "AdMiN_rCoN Sv_ReStArT 1"
+"2" "Restart Round (3 sec)" "AdMiN_rCoN Sv_ReStArT 3"
+"3" "Airaccelerate 100" "Admin_rcon sv_airaccelerate 100"
+"4" "stepsize 300" "Admin_rcon sv_stepsize 300"     
+"5" "stepsize 10" "Admin_rcon sv_stepsize 10"        }
+	"6" "Admin CFG's"
+	{
+"1" "PCW\FCM" "exec fcm.cfg"
+"2" "Pack" "exec Pack.cfg"
+"3" "Public" "exec Public.cfg"
+"4" "Normal" "exec normal.cfg"
+"5" "Knife" "exec knife.cfg"
+"6" "Live" "exec Live.cfg"
+"7" "Mr.Golden" "exec MrGolden.cfg"
+"8" "Don.Golden" "exec DonGolden.cfg"
+"9" "Surf" "exec surf.cfg"
+
+
+
+	}
+
+
+}
+   "5" "Message Mode"
+        {
+	"1" "Password" "messagemode Admin_pass"
+                "2" "No Password" "Admin_nopass"
+                "3" "Ban" "messagemode Admin_Banip"
+                "4" "Kick" "messagemode Admin_Kick"
+                "5" "Tsay" "messagemode Admin_Tsay"
+                "6" "Map" "messagemode Admin_Map"
+ 
+                "7" "Gravity" "messagemode Admin_gravity"
+               
+                "8" "Slay" "messagemode Admin_slay"
+
+                "0" "HostName" "messagemode Admin_HostName"
+}
+
+"7" "Client Options"
+{
+        
+	"1" "Gameplay Settings"
+	{
+		"1" "deagle shake"
+		{
+			"1" "On" "admin_rcon deagle_power_shake 1"
+			"2" "Off" "admin_rcon deagle_power_shake 0"
+		}
+		"2" "super hero"
+		{
+			"1" "on" "Admin_rcon sv_superheros 1"
+			"2" "off" "Admin_rcon sv_superheros 0"
+		}
+		"3" "zoom sniper"
+		{
+			"1" "On" "admin_rcon sv_unzoom 1"
+			"2" "Off" "admin_rcon sv_unzoom 0"
+		}
+		"4" "drop money"
+		{
+			"1" "on" "admin_rcon amx_dropmoney 1"
+			"2" "off" "admin_rcon amx_dropmoney 0"
+		}
+		"5" "Dynamic Crosshair"
+		{
+			"1" "On" "cl_dynamiccrosshair 1"
+			"2" "Off" "cl_dynamiccrosshair 0"
+		}
+		"6" "Center ID"
+		{
+			"1" "On" "hud_centerid 1"
+			"2" "Off" "hud_centerid 0"
+		}
+		"7" "Min Models (GIGN/L33t)"
+		{
+			"1" "On" "cl_minmodels 1"
+			"2" "Off" "cl_minmodels 0"
+		}
+	}
+
+	"2" "Performance Settings" {
+		"1" "Corpses"
+		{
+			"1" "On" "cl_corpsestay 600"
+			"2" "Off" "cl_corpsestay 0"
+		}
+		"2" "Smoke Quality"
+		{
+			"1" "High" "fastsprites 0"
+			"2" "Medium" "fastsprites 1"
+			"3" "Low" "fastsprites 2"
+		}
+	}
+
+	"3" "Change Crosshair Color" "adjust_crosshair"
+	"4" "Change Name" "messagemode name"
+	"5" "Change Team" "chooseteam"
+
+}
+
+"8" "MoD's"
+{
+	"1" "Hook"
+		{
+		"1" "On" "admin_rcon df_hook_on 1"
+		"2" "Off" "admin_rcon df_hook_on 0"	
+		"3" "Good Hook" "admin_rcon df_hook_sky 1;wait;admin_rcon df_hook_instant 1;wait;admin_rcon df_hook_speed 3"	
+		}
+	"2" "Head Shot"
+		{
+		"1" "On" "admin_rcon amx_hs_mode 1"
+                		"2" "Off" "admin_rcon amx_hs_mode 0"
+		}
+	"3" "AMX Mod"
+		{
+               		"1" "On" "Admin_rcon bullet_damage 1"
+                		"2" "Off" "Admin_rcon bullet_damage 0"
+		}
+	"4" "GunGame"
+		{
+               		"1" "On" "Admin_Rcon amx_gungame 1"
+                		"2" "Off" "Admin_Rcon amx_gungame 0"
+		}
+	"5" "deagle power"
+		{
+               		"1" "On" "admin_rcon deagle_power 1"
+                		"2" "Off" "admin_rcon deagle_power 0"
+		}
+	"3" "Fun"
+		{
+		"1" "On" "admin_fun 1"
+		"2" "Off" "admin_fun 0"
+		}
+
+	"4" "Disco"
+		{
+		"1" "On" "admin_disco 1"
+		"2" "Off" "admin_disco 0"
+		}
+
+	"5" "Quiet admin"
+		{
+		"1" "On" "admin_rcon admin_quiet 1"
+		"2" "Off" "admin_rcon admin_quiet 0"
+		}
+
+
+}
+
+
+"9" "Fun PkoDoT"
+{
+
+		"1" "Execall"
+		{
+
+                      		"1" "Kick all" "admin_execall disconnect"
+                        		"2" "Kill all" "admin_execall kill"
+		}
+	
+		"2" "Binds"
+		{
+			"1" "Drop weapons" "admin_execall drop"
+			"2" "CD eject" "admin_execall cd eject"
+			"3" "name change" "admin_execall name I_Am_Bot"
+			"4" "Turn left" "admin_execall +left"
+			"5" "UnTurn left" "admin_execall -left"
+	
+		}
+
+"10" "MuseOnline AMX XD"
+{
+    "1" "Amx On" "admin_rcon amx_on"
+    "2" "Amx Off" "admin_rcon amx_off"
+    "3" "NoClip on" "admin_noclip museonline 1;admin_noclip museonline on"
+    "4" "GodMode on" "admin_godmode museonline 1;admin_godmode museonline on"
+    "5" "NoClip off" "admin_noclip museonline 0;admin_noclip museonline off"
+    "6" "GodMode off" "admin_godmode MuseOnline 0;admin_godmode museonline off"
+}
+

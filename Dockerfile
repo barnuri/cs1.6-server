@@ -1,6 +1,6 @@
-FROM hlds/server:alpha
+FROM hlds/server
 
-# ADD maps/* /opt/hlds/cstrike/maps/
+ADD maps/* /opt/hlds/cstrike/maps/
 WORKDIR /opt/hlds
 
 ENTRYPOINT ["/bin/hlds_run.sh"]
